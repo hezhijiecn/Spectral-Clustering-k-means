@@ -13,3 +13,13 @@ the workflow stages below:
 **4.application of Spectral Clustering on chosen dataset**
 
 **5.comparison of the results between K-means and Spectral clustering**
+
+
+
+How to import the notebook
+
+import MOML.ipynb to Google Colab
+
+Or
+
+open the MOML.ipynb with ur jupyter notebook
